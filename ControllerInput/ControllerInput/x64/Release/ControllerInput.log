@@ -1,0 +1,13 @@
+﻿  wrapper.cpp
+c:\users\100586132\desktop\gamedlls\controllerinput\controllerinput\wrapper.h(22): warning C4091: '__declspec(dllexport)': ignored on left of 'gamepadAxes' when no variable is declared
+  XInput_Gamepad.cpp
+XInput_Gamepad.cpp(138): warning C4244: '=': conversion from 'float' to 'WORD', possible loss of data
+XInput_Gamepad.cpp(139): warning C4244: '=': conversion from 'float' to 'WORD', possible loss of data
+XInput_Gamepad.cpp(154): warning C4244: '=': conversion from 'float' to 'WORD', possible loss of data
+XInput_Gamepad.cpp(155): warning C4244: '=': conversion from 'float' to 'WORD', possible loss of data
+     Creating library C:\Users\100586132\Desktop\GameDLLs\ControllerInput\x64\Release\ControllerInput.lib and object C:\Users\100586132\Desktop\GameDLLs\ControllerInput\x64\Release\ControllerInput.exp
+  Generating code
+c:\users\100586132\desktop\gamedlls\controllerinput\controllerinput\wrapper.cpp(377): warning C4715: 'SaveInputProfilesToDisk': not all control paths return a value
+  All 489 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ControllerInput.vcxproj -> C:\Users\100586132\Desktop\GameDLLs\ControllerInput\x64\Release\ControllerInput.dll
